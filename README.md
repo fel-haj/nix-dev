@@ -76,4 +76,4 @@ You can then run:
 ```bash
 mkdev node
 ```
-...inside any project directory.f you name your script mkdev for instance, then you could execute 'mkdev node' in the project's directory where you intend to use the tech-stack.
+...inside any project directory. If you name your script mkdev for instance, then you could execute 'mkdev node' in the project's directory where you intend to use the tech-stack.
